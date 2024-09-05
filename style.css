@@ -1,0 +1,14 @@
+.row{
+ border: 2px solid red;
+ background-color: aquamarine;
+}
+.pin{
+    border: 1px solid black;
+    
+}
+.o{
+    margin-left: 40px;
+}
+.w{
+    margin-left: 60px;
+}
